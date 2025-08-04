@@ -1,4 +1,4 @@
-# Example entries (one per line). You can use either UPN or SAMAccountName.
+teste123# Example entries (one per line). You can use either UPN or SAMAccountName.
 # UPN format:
 john.doe@company.com
 jane.smith@domain.org
