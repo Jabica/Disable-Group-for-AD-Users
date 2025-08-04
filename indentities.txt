@@ -1,0 +1,8 @@
+# Example entries (one per line). You can use either UPN or SAMAccountName.
+# UPN format:
+john.doe@company.com
+jane.smith@domain.org
+
+# SAMAccountName format:
+johndoe
+janesmith
